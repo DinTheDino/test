@@ -1,0 +1,17 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Motor": "Subsystem",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/SmartDashboard/Auto Mode": "String Chooser",
+      "/SmartDashboard/Autonomous Command": "Command",
+      "/SmartDashboard/Rotate motor": "Command",
+      "/SmartDashboard/nothing1": "Command",
+      "/SmartDashboard/roatate10times": "Command"
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}
